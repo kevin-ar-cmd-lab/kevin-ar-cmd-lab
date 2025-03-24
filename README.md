@@ -1,12 +1,21 @@
-![Bottom_up](https://github.com/user-attachments/assets/4da6977a-113b-4fab-b853-eb496dd8cedd)<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:absolute;top:0px;left:0px;width:100%;height:100%;pointer-events:none;overflow:visible;display:block;opacity:0;"><defs><clipPath id="clip-4da6977a-113b-4fab-b853-eb496dd8cedd"><rect x="0" y="0" width="100%" height="100%"></rect></clipPath></defs><g clip-path="url(#clip-4da6977a-113b-4fab-b853-eb496dd8cedd)"><use xlink:href="#4da6977a-113b-4fab-b853-eb496dd8cedd" transform="translate(0,0) scale(1,1)" style="pointer-events:none;"></use></g></svg>
+![Bottom_up](https://github.com/user-attachments/assets/4da6977a-113b-4fab-b853-eb496dd8cedd)<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:absolute;top:0px;left:0px;width:100%;height:100%;pointer-events:none;overflow:visible;display:block;opacity:0;">
+<defs>
+<clipPath id="clip-4da6977a-113b-4fab-b853-eb496dd8cedd">
+<rect x="0" y="0" width="100%" height="100%"></rect>
+</clipPath>
+</defs>
+<g clip-path="url(#clip-4da6977a-113b-4fab-b853-eb496dd8cedd)">
+<use xlink:href="#image-4da6977a-113b-4fab-b853-eb496dd8cedd" width="100%" height="100%"></use>
+</g>
+</svg>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Rehman!+🥰;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Juma!+🥰;" />
 </div>
 
 ## About Me 🙋‍♂️
 
-I am a Mobile Application Developer with vast collection of skills, and extensive knowledge of programing language like c, C++, java, data structures algorithms, and Dart. I have worked in several professional environments and developed a wide range of applications. Since I started learning Flutter in 2022, I have been dedicated to developing applications that meet exact requirements and deliver exceptional user experiences.
+I am a Mobile Application Developer with vast collection of skills, and extensive knowledge of programing language like c, C++, java, data structures algorithms, and Dart. I have worked in several projects and have a passion for learning and improving my skills.
 
 <br>
 <div align="center" style="background-color: #00FF00; padding: 10px;">
@@ -30,8 +39,8 @@ I'm open to new Work where I can leverage my skills in Flutter development and c
     <a href="https://chat.whatsapp.com/HnTNc0XHUtD4uatNLJ9eYa" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border-radius: 20px;">
     </a>
-    <a href="https://www.instagram.com/rehmanflutter/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 20px;">
+    <a href="https://www.linkedin.com/public-profile/settings?trk=public-profile" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 20px;">
     </a>
 </div>
 
