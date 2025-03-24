@@ -39,7 +39,8 @@ I'm open to new Work where I can leverage my skills in Flutter development and c
     <a href="https://chat.whatsapp.com/HnTNc0XHUtD4uatNLJ9eYa" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border-radius: 20px;">
     </a>
-    <a href="https://www.linkedin.com/public-profile/settings?trk=public-profile" target="_blank">
+    <a href="https://www.linkedin.com/in/
+kevin-juma-aa2947" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 20px;">
     </a>
 </div>
