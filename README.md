@@ -13,6 +13,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Juma!+🥰;" />
 </div>
 
+<h2 style="color:red; text-decoration: underline;"><strong>🙋‍♂️ About Me</strong></h2>
+<h2 style="color:red; text-decoration: underline;"><strong>🌟 Available for New Work</strong></h2>
+<h2 style="color:red; text-decoration: underline;"><strong>🔧 What I Offer</strong></h2>
+<h2 style="color:red; text-decoration: underline;"><strong>🤝 Connect with Me</strong></h2>
+<h2 style="color:red; text-decoration: underline;"><strong>🛠 Languages and Tools</strong></h2>
+
 ## About Me 🙋‍♂️
 
 Hi, I'm Kevin Juma — a passionate and results-driven website developer and designer with a strong command of both frontend and backend technologies. I specialize in building responsive, accessible, and performance-optimized web applications that offer clean design and seamless user experiences.
