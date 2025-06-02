@@ -13,13 +13,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=199A8E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Juma!+🥰;" />
 </div>
 
-<h2 style="color:red; text-decoration: underline;"><strong>🙋‍♂️ About Me</strong></h2>
-<h2 style="color:red; text-decoration: underline;"><strong>🌟 Available for New Work</strong></h2>
-<h2 style="color:red; text-decoration: underline;"><strong>🔧 What I Offer</strong></h2>
-<h2 style="color:red; text-decoration: underline;"><strong>🤝 Connect with Me</strong></h2>
-<h2 style="color:red; text-decoration: underline;"><strong>🛠 Languages and Tools</strong></h2>
 
-## About Me 🙋‍♂️
+![About Me](https://img.shields.io/badge/🙋‍♂️%20About%20Me-f87171?style=for-the-badge&logoColor=white)
 
 Hi, I'm Kevin Juma — a passionate and results-driven website developer and designer with a strong command of both frontend and backend technologies. I specialize in building responsive, accessible, and performance-optimized web applications that offer clean design and seamless user experiences.
 
@@ -31,7 +26,8 @@ With a solid background in frameworks like React, Vue, Next.js, Nuxt, and backen
 </div>
 <br>
 
-## 🌟 Available for New Work:
+
+![Available for Work](https://img.shields.io/badge/🌟%20Available%20for%20Work-60a5fa?style=for-the-badge&logoColor=white)
 
 I'm currently open to new opportunities—whether it's contributing to existing repositories, joining collaborative projects, or building new features and products from scratch.
 
@@ -43,7 +39,7 @@ As a skilled website developer and designer, I bring experience in crafting resp
 </div>
 <br>
 
-🔧 What I Offer:
+![What I Offer](https://img.shields.io/badge/🔧%20What%20I%20Offer-34d399?style=for-the-badge&logoColor=white)
 
 Frontend & backend development (HTML, CSS, JavaScript, TypeScript, React, Vue, Next.js, Nuxt, Flask, etc.)
 
@@ -64,8 +60,7 @@ I'm reliable, self-driven, and quick to adapt to project requirements. If you're
 </div>
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+![Connect with Me](https://img.shields.io/badge/🤝%20Connect%20with%20Me-facc15?style=for-the-badge&logoColor=black)
 
 <div align="center">
     <a href="https://www.facebook.com/profile.php?id=61574132412490" target="_blank">
@@ -83,7 +78,8 @@ kevin-juma-aa2947" target="_blank">
     </a>
 </div>
 
-## 🛠 Languages and Tools:
+![Languages and Tools](https://img.shields.io/badge/🛠%20Languages%20and%20Tools-f87171?style=for-the-badge&logoColor=white)
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,xd,postman,java,js,c,cplusplus" /><br><br><br>
 </div>
@@ -113,3 +109,5 @@ kevin-juma-aa2947" target="_blank">
 - Facebook: [Profile](https://www.facebook.com/profile.php?id=61574132412490)
 
 -->
+
+
