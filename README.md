@@ -31,6 +31,12 @@ I'm currently open to new opportunities—whether it's contributing to existing 
 
 As a skilled website developer and designer, I bring experience in crafting responsive, accessible, and performance-optimized web applications. I work across the stack and have a strong eye for clean design, scalable code, and modern development workflows.
 
+<br>
+<div align="center" style="background-color: #00FF00; padding: 10px;">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 🔧 What I Offer:
 
 Frontend & backend development (HTML, CSS, JavaScript, TypeScript, React, Vue, Next.js, Nuxt, Flask, etc.)
@@ -45,6 +51,12 @@ Collaboration with cross-functional teams
 
 
 I'm reliable, self-driven, and quick to adapt to project requirements. If you're working on something interesting and need an extra hand, feel free to connect.
+
+<br>
+<div align="center" style="background-color: #00FF00; padding: 10px;">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
