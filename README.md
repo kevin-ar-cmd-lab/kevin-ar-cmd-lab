@@ -62,26 +62,52 @@ I'm reliable, self-driven, and quick to adapt to project requirements. If you're
 
 ![Connect with Me](https://img.shields.io/badge/🤝%20Connect%20with%20Me-facc15?style=for-the-badge&logoColor=black)
 
-<div align="center">
-    <a href="https://www.facebook.com/profile.php?id=61574132412490" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="border-radius: 50px;">
-    </a>
-    <a href="mailto:otienokevino100090@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 20px;">
-    </a>
-    <a href="https://chat.whatsapp.com/HnTNc0XHUtD4uatNLJ9eYa" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border-radius: 20px;">
-    </a>
-    <a href="https://www.linkedin.com/in/
-kevin-juma-aa2947" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 20px;">
-    </a>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <a href="https://www.facebook.com/profile.php?id=61574132412490" target="_blank" title="Facebook">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" />
+  </a>
+
+  <a href="mailto:otienokevino100090@gmail.com" title="Gmail">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40" />
+  </a>
+
+  <a href="https://chat.whatsapp.com/HnTNc0XHUtD4uatNLJ9eYa" target="_blank" title="WhatsApp">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/kevin-juma-aa2947" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
+  </a>
+
 </div>
 
 ![Languages and Tools](https://img.shields.io/badge/🛠%20Languages%20and%20Tools-f87171?style=for-the-badge&logoColor=white)
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,xd,postman,java,js,c,cplusplus" /><br><br><br>
+## 🛠 Languages, Frameworks & Tools
+
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+  <div style="text-align: center;">
+    <p><strong>Frontend</strong></p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vue,nextjs,nuxt,framer" alt="Frontend Icons" height="40" />
+  </div>
+
+  <div style="text-align: center;">
+    <p><strong>Backend</strong></p>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,flask,django" alt="Backend Icons" height="40" />
+  </div>
+
+  <div style="text-align: center;">
+    <p><strong>Database</strong></p>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" alt="Database Icons" height="40" />
+  </div>
+
+  <div style="text-align: center;">
+    <p><strong>Version Control & Deployment</strong></p>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify" alt="VCS & Deployment Icons" height="40" />
+  </div>
+
 </div>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
