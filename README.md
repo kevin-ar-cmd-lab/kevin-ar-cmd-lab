@@ -82,13 +82,17 @@ I'm reliable, self-driven, and quick to adapt to project requirements. If you're
 
 </div>
 
-![Languages and Tools](https://img.shields.io/badge/🛠%20Languages%20and%20Tools-f87171?style=for-the-badge&logoColor=white)
+<br>
+<div align="center" style="background-color: #00FF00; padding: 10px;">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-## 🛠 Languages, Frameworks & Tools
+![Languages, Frameworks & Tools](https://img.shields.io/badge/🛠%20Languages,%20,%20Frameworks%20and%20Tools-f87171?style=for-the-badge&logoColor=white)
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-  <div style="text-align: center;">
+  <div style="text-align: left;">
     <p><strong>Frontend</strong></p>
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vue,nextjs,nuxt,framer" alt="Frontend Icons" height="40" />
   </div>
@@ -109,6 +113,12 @@ I'm reliable, self-driven, and quick to adapt to project requirements. If you're
   </div>
 
 </div>
+
+<br>
+<div align="center" style="background-color: #00FF00; padding: 10px;">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmanflutter&show_icons=true&locale=en&layout=compact" alt="rehmanflutter" style="width: 250px; height: 250px;">
