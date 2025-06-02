@@ -15,7 +15,9 @@
 
 ## About Me 🙋‍♂️
 
-I am a Mobile Application Developer with vast collection of skills, and extensive knowledge of programing language like c, C++, java, data structures algorithms, and Dart. I have worked in several projects and have a passion for learning and improving my skills.
+Hi, I'm Kevin Juma — a passionate and results-driven website developer and designer with a strong command of both frontend and backend technologies. I specialize in building responsive, accessible, and performance-optimized web applications that offer clean design and seamless user experiences.
+
+With a solid background in frameworks like React, Vue, Next.js, Nuxt, and backend tools like Flask, I'm confident navigating full-stack workflows and integrating into diverse project architectures. I thrive in collaborative environments, enjoy solving real-world problems with code, and value writing clean, maintainable, and scalable solutions.
 
 <br>
 <div align="center" style="background-color: #00FF00; padding: 10px;">
@@ -24,7 +26,25 @@ I am a Mobile Application Developer with vast collection of skills, and extensiv
 <br>
 
 ## 🌟 Available for New Work:
-I'm open to new Work where I can leverage my skills in Flutter development and contribute to exciting projects. Feel free to reach out if you have an opportunity that aligns with my skills and experience.
+
+I'm currently open to new opportunities—whether it's contributing to existing repositories, joining collaborative projects, or building new features and products from scratch.
+
+As a skilled website developer and designer, I bring experience in crafting responsive, accessible, and performance-optimized web applications. I work across the stack and have a strong eye for clean design, scalable code, and modern development workflows.
+
+🔧 What I Offer:
+
+Frontend & backend development (HTML, CSS, JavaScript, TypeScript, React, Vue, Next.js, Nuxt, Flask, etc.)
+
+UI/UX implementation with a focus on usability
+
+Refactoring, debugging, and performance optimization
+
+Integration into existing codebases
+
+Collaboration with cross-functional teams
+
+
+I'm reliable, self-driven, and quick to adapt to project requirements. If you're working on something interesting and need an extra hand, feel free to connect.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
