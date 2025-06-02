@@ -62,24 +62,22 @@ I'm reliable, self-driven, and quick to adapt to project requirements. If you're
 
 ![Connect with Me](https://img.shields.io/badge/🤝%20Connect%20with%20Me-facc15?style=for-the-badge&logoColor=black)
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <a href="https://www.facebook.com/profile.php?id=61574132412490" target="_blank" title="Facebook">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
+  <a href="https://www.facebook.com/profile.php?id=61574132412490" target="_blank" title="Facebook" style="margin-right: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" />
   </a>
 
-  <a href="mailto:otienokevino100090@gmail.com" title="Gmail">
+  <a href="mailto:otienokevino100090@gmail.com" title="Gmail" style="margin-right: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40" />
   </a>
 
-  <a href="https://chat.whatsapp.com/HnTNc0XHUtD4uatNLJ9eYa" target="_blank" title="WhatsApp">
+  <a href="https://chat.whatsapp.com/HnTNc0XHUtD4uatNLJ9eYa" target="_blank" title="WhatsApp" style="margin-right: 30px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40" />
   </a>
 
   <a href="https://www.linkedin.com/in/kevin-juma-aa2947" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" />
   </a>
-
 </div>
 
 <br>
@@ -120,8 +118,7 @@ I'm reliable, self-driven, and quick to adapt to project requirements. If you're
 </div>
 <br>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmanflutter&show_icons=true&locale=en&layout=compact" alt="rehmanflutter" style="width: 250px; height: 250px;">
+
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador" style="width: 300px; height: 300px;">
   <!--   <img src="https://github-readme-stats.vercel.app/api?username=rehmanflutter&show_icons=true&locale=en" alt="rehmanflutter" style="width: 250px; height: 250px;"> -->
 </div>
