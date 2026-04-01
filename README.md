@@ -125,7 +125,7 @@ https://www.linkedin.com/in/kevin-juma-aa2947
 **WhatsApp**
 
 
-https://wa.me/254XXXXXXXXX
+https://wa.me/254113094610
 
 
 **Facebook**
