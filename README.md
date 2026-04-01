@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3500&pause=1000&color=199A8E&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋;I'm+Kevin+Juma;Website+Developer+%26+Designer;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3500&pause=1000&color=199A8E&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋;I'm+Kevin+Juma;Website+Developer+%26+Designer; Building+Modern+Web+Applications" />
 
 </div>
 
