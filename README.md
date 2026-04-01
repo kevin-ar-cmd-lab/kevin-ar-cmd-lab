@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3500&pause=1000&color=199A8E&center=true&vCenter=true&width=600&height=70&lines=Hi+there+👋;I'm+Kevin+Juma;Website+Developer+%26+Designer;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3500&pause=1000&color=199A8E&center=true&vCenter=true&width=800&height=70&lines=Hi+there+👋;I'm+Kevin+Juma;Website+Developer+%26+Designer;Building+Modern+Web+Applications" />
 
 </div>
 
@@ -56,9 +56,8 @@ My development workflow spans **frontend, backend, and deployment pipelines**, a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin_ar_cmd_lab&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevin_ar_cmd_lab&show_icons=true&theme=tokyonight"/><!--
+--><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin_ar_cmd_lab&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -68,7 +67,7 @@ My development workflow spans **frontend, backend, and deployment pipelines**, a
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin_ar_cmd_lab&theme=tokyonight"/>
 
 </div>
 
@@ -78,7 +77,7 @@ My development workflow spans **frontend, backend, and deployment pipelines**, a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevin_ar_cmd_lab&theme=tokyo-night"/>
 
 </div>
 
